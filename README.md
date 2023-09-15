@@ -1,5 +1,5 @@
 # Shoppy
-This project was bootstrapped with Create React App, using the Redux and Redux Toolkit template A development of Shoppy E-commerce website using html, css, React, Bootstrap, ExpressJS and Node.js.
+This project was bootstrapped with Create React App, using the Redux and Redux Toolkit template A development of Shoppy E-commerce website using  Css, React, Bootstrap, ExpressJS and Node.js.
 
 # Tech/framework used
 React
